@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-C++ engineer currently working in medical devices
+Open Source Community Engineer at Modular
